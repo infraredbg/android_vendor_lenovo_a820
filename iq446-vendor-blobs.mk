@@ -76,7 +76,7 @@ PRODUCT_COPY_FILES += \
  vendor/fly/iq446/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
  vendor/fly/iq446/proprietary/lib/libblisrc32.so:system/lib/libblisrc32.so \
  vendor/fly/iq446/proprietary/lib/libdpframework.so:system/lib/libdpframework.so \
- vendor/fly/iq446/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
+ vendor/fly/iq446/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata_kk.so \
  vendor/fly/iq446/proprietary/lib/libbluetooth_mtk.so:system/lib/libbluetooth_mtk.so \
  vendor/fly/iq446/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
  vendor/fly/iq446/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
@@ -98,14 +98,14 @@ PRODUCT_COPY_FILES += \
  vendor/fly/iq446/proprietary/lib/libmtklimiter.so:system/lib/libmtklimiter.so \
  vendor/fly/iq446/proprietary/lib/libcam_utils.so:system/lib/libcam_utils.so \
  vendor/fly/iq446/proprietary/lib/libbessound_mtk.so:system/lib/libbessound_mtk.so \
- vendor/fly/iq446/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+ vendor/fly/iq446/proprietary/lib/libcamera_client.so:system/lib/libcamera_client_kk.so \
  vendor/fly/iq446/proprietary/lib/libcam.campipe.so:system/lib/libcam.campipe.so \
  vendor/fly/iq446/proprietary/lib/libcam.camadapter.so:system/lib/libcam.camadapter.so \
  vendor/fly/iq446/proprietary/lib/lib3a.so:system/lib/lib3a.so \
  vendor/fly/iq446/proprietary/lib/libmtk_drvb.so:system/lib/libmtk_drvb.so \
  vendor/fly/iq446/proprietary/lib/libmpo.so:system/lib/libmpo.so \
  vendor/fly/iq446/proprietary/lib/libcam.client.so:system/lib/libcam.client.so \
- vendor/fly/iq446/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+ vendor/fly/iq446/proprietary/lib/libcameraservice.so:system/lib/libcameraservice_kk.so \
  vendor/fly/iq446/proprietary/lib/libspeech_enh_lib.so:system/lib/libspeech_enh_lib.so \
  vendor/fly/iq446/proprietary/lib/libssladp.so:system/lib/libssladp.so \
  vendor/fly/iq446/proprietary/lib/libmpoencoder.so:system/lib/libmpoencoder.so \
