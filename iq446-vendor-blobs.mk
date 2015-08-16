@@ -126,7 +126,6 @@ PRODUCT_COPY_FILES += \
  vendor/fly/iq446/proprietary/lib/libm4u.so:system/lib/libm4u.so \
  vendor/fly/iq446/proprietary/lib/hw/hwcomposer.mt6589.so:system/lib/hw/hwcomposer.mt6589.so \
  vendor/fly/iq446/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
- vendor/fly/iq446/proprietary/lib/hw/audio.primary.mt6589.so:system/lib/hw/audio.primary.mt6589.so \
  vendor/fly/iq446/proprietary/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
  vendor/fly/iq446/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
  vendor/fly/iq446/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
@@ -166,6 +165,7 @@ PRODUCT_COPY_FILES += \
  vendor/fly/iq446/proprietary/vendor/lib/egl/libGLESv2_mtk.so:system/vendor/lib/egl/libGLESv2_mtk.so \
  vendor/fly/iq446/proprietary/vendor/lib/libpvrANDROID_WSEGL.so:system/vendor/lib/libpvrANDROID_WSEGL.so \
  vendor/fly/iq446/proprietary/vendor/lib/libBLPP.so:system/vendor/lib/libBLPP.so \
- vendor/fly/iq446/proprietary/vendor/lib/hw/gralloc.mt6589.so:system/vendor/lib/hw/gralloc.mt6589.so
-PRODUCT_COPY_FILES += \
-  vendor/fly/iq446/proprietary/lib/hw/audio.primary.mt6589.so:system/lib/hw/audio.primary.mt6589.so \
+ vendor/fly/iq446/proprietary/vendor/lib/hw/gralloc.mt6589.so:system/vendor/lib/hw/gralloc.mt6589.so \
+ vendor/fly/iq446/proprietary/lib/libaudio.primary.default.so:system/lib/libaudio.primary.default.so \
+ vendor/fly/iq446/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default_kk.so \
+ vendor/fly/iq446/proprietary/lib/libcorkscrew.so:system/lib/libcorkscrew.so
