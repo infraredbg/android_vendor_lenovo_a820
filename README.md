@@ -1,1 +1,2 @@
-# vendor_fly_iq446_kk
+# android_vendor_fly_iq446
+
